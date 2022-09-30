@@ -16,4 +16,8 @@ X = []
 for hand_perc in hand_perc:
     X.append(hand_perc[1])
     hands.append(hand_perc[0])
+    
+print(hand_perc)
+print(X)
+print(hands)
    
